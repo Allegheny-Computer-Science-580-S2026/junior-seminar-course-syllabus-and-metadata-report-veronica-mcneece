@@ -38,7 +38,8 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Prototype]
+https://github.com/veronica-mcneece/jsem-prototype.git
 
 ### GitHub Repository for Research Data
 
@@ -65,10 +66,9 @@ researchers.
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: [Name of peer researcher and their project]
-- **Feedback Provided**: \[Brief description of the feedback, suggestions, or
-  questions you contributed\]
-- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Researcher Name / Project**: Veronica McNeece/Interactive Color Theory Simulator
+- **Feedback Provided**: UI needs to be more concise..
+- **Impact**: I was impacted by seeing the brevity of his project.
 - **Reference**: [Provide a link to a GitHub repository's issue tracker]
 
 Example entries:
