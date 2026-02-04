@@ -87,9 +87,9 @@ Example entries:
 Document instances where you participated in collaborative technical
 discussions or helped fellow researchers troubleshoot issues:
 
-- **Discussion Topic / Problem**: [Brief description]
-- **Your Contribution**: [What you shared, suggested, or helped debug]
-- **Outcome**: [How it helped advance the research]
+- **Discussion Topic / Problem**: Managing reliability and safety in AI-assisted creative tools
+- **Your Contribution**: Participated in group discussion about the risks of automated code execution and hallucinated instructions in LLM-based systems. Shared design strategies such as grounding responses in official documentation, clearly stating mode and operator prerequisites, and requiring explicit user confirmation before executing any generated code.
+- **Outcome**: Helped reinforce a shared emphasis on transparency, user control, and documentation-grounded guidance across multiple projects, informing both interface design and ethical framing within the research group.
 
 Example entries:
 
@@ -105,9 +105,10 @@ Example entries:
 
 Note particularly meaningful contributions during research group meetings:
 
-- **Meeting Date / Topic**: [When and what]
-- **Contribution**: [Question asked, insight shared, or resource provided]
-- **Value to Group**: [How it benefited the research community]
+- **Meeting Date / Topic**: February 2026 — Project scope and research motivation discussion
+- **Contribution**:  Shared insights from personal experience learning Blender, emphasizing how beginners struggle less with conceptual understanding and more with micro-execution issues such as mode confusion, operator discovery, and modifier order. Asked questions about how other projects were defining and measuring usability in technically complex tools.
+- **Value to Group**: Helped ground the discussion in concrete user experience challenges and encouraged peers to clarify scope, audience, and evaluation criteria for their own research projects, strengthening the overall rigor of the group’s proposals.
+
 
 Example entries:
 
