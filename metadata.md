@@ -4,7 +4,7 @@
 
 A research group member should type their name below.
 
-- **Researcher Name**: `Add Your Name Here`
+- **Researcher Name**: Veronica McNeece
 
 ## Reading Syllabus Pledge
 
@@ -12,7 +12,7 @@ A research group member should add an X-mark to the box to indicate that they
 have carefully read and understood the Junior Seminar Research Project Syllabus
 and that they are ready to complete their Junior Seminar Research Project.
 
-- [ ] I read the Junior Seminar Research Project Syllabus and am ready to begin
+- [x] I read the Junior Seminar Research Project Syllabus and am ready to begin
   the completion of my Junior Seminar Research Project.
 
 ## Honor Code Pledge
@@ -21,36 +21,37 @@ A research group member should add an X-mark to the box to indicate that they
 agree to adhere to the Allegheny College Honor Code during the completion of
 their Junior Seminar Research Project.
 
-- [ ] I agree to adhere to the Allegheny College Honor Code during the
+- [x] I agree to adhere to the Allegheny College Honor Code during the
   completion of my Junior Seminar Research Project.
 
 ## GitHub Username
 
 A research group member should type their GitHub username below.
 
-- **GitHub Username**: `Add Your GitHub Username Here`
+- **GitHub Username**: `veronica-mcneece`
 
 ## GitHub Repositories
 
 ### GitHub Repository for Research Report and Research Journal
 
-- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Report and Journal] (https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-veronica-mcneece)
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Prototype]
+https://github.com/veronica-mcneece/jsem-prototype.git
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-veronica-mcneece)
 
 ## Research Project Title
 
 A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
-```text
-Add the Title of Your Junior Seminar Research Project
+```
+Colorly: Interactive Color Theory User
 ```
 
 ## Research Group Contributions
@@ -65,10 +66,9 @@ researchers.
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: [Name of peer researcher and their project]
-- **Feedback Provided**: \[Brief description of the feedback, suggestions, or
-  questions you contributed\]
-- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Researcher Name / Project**: Veronica McNeece/Interactive Color Theory Simulator
+- **Feedback Provided**: UI needs to be more concise..
+- **Impact**: I was impacted by seeing the brevity of his project.
 - **Reference**: [Provide a link to a GitHub repository's issue tracker]
 
 Example entries:
@@ -87,9 +87,9 @@ Example entries:
 Document instances where you participated in collaborative technical
 discussions or helped fellow researchers troubleshoot issues:
 
-- **Discussion Topic / Problem**: [Brief description]
-- **Your Contribution**: [What you shared, suggested, or helped debug]
-- **Outcome**: [How it helped advance the research]
+- **Discussion Topic / Problem**: Managing reliability and safety in AI-assisted creative tools
+- **Your Contribution**: Participated in group discussion about the risks of automated code execution and hallucinated instructions in LLM-based systems. Shared design strategies such as grounding responses in official documentation, clearly stating mode and operator prerequisites, and requiring explicit user confirmation before executing any generated code.
+- **Outcome**: Helped reinforce a shared emphasis on transparency, user control, and documentation-grounded guidance across multiple projects, informing both interface design and ethical framing within the research group.
 
 Example entries:
 
@@ -105,9 +105,10 @@ Example entries:
 
 Note particularly meaningful contributions during research group meetings:
 
-- **Meeting Date / Topic**: [When and what]
-- **Contribution**: [Question asked, insight shared, or resource provided]
-- **Value to Group**: [How it benefited the research community]
+- **Meeting Date / Topic**: February 2026 — Project scope and research motivation discussion
+- **Contribution**:  Shared insights from personal experience learning Blender, emphasizing how beginners struggle less with conceptual understanding and more with micro-execution issues such as mode confusion, operator discovery, and modifier order. Asked questions about how other projects were defining and measuring usability in technically complex tools.
+- **Value to Group**: Helped ground the discussion in concrete user experience challenges and encouraged peers to clarify scope, audience, and evaluation criteria for their own research projects, strengthening the overall rigor of the group’s proposals.
+
 
 Example entries:
 
