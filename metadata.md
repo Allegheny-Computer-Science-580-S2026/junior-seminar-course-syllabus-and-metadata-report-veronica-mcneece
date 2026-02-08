@@ -69,7 +69,7 @@ during presentations, demonstrations, or informal discussions. Include:
 - **Researcher Name / Project**: Veronica McNeece/Interactive Color Theory Simulator
 - **Feedback Provided**: UI needs to be more concise..
 - **Impact**: I was impacted by seeing the brevity of his project.
-- **Reference**: [Provide a link to a GitHub repository's issue tracker]
+- **Reference**: https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-KevenDuverglas/issues
 
 Example entries:
 
