@@ -34,16 +34,15 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Report and Research Journal
 
-- **Repository URL**: [URL of GitHub Repository for Research Report and Journal] (https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-veronica-mcneece)
+- **Repository URL**: [Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-veronica-mcneece)
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype]
-https://github.com/veronica-mcneece/jsem-prototype.git
+- **Repository URL**: [Research Prototype](https://github.com/veronica-mcneece/jsem-prototype.git)
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-veronica-mcneece)
+- **Repository URL**: [Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-veronica-mcneece)
 
 ## Research Project Title
 
@@ -51,7 +50,7 @@ A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
 ```
-Colorly: Interactive Color Theory User
+HueCloset: AI-Powered Wardrobe Matchmaker
 ```
 
 ## Research Group Contributions
@@ -66,21 +65,15 @@ researchers.
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: Veronica McNeece/Interactive Color Theory Simulator
-- **Feedback Provided**: UI needs to be more concise..
-- **Impact**: I was impacted by seeing the brevity of his project.
+- **Researcher Name / Project**: Keven Duverglas / Blender Assistant
+- **Feedback Provided**: During Week 1, reviewed Keven's early project work and provided feedback via GitHub Issues, suggesting that the UI be made more concise and focused to improve usability and reduce cognitive load for users.
+- **Impact**: The feedback prompted a discussion about interface clarity and scope, contributing to a cleaner design direction for the project early in the semester.
 - **Reference**: https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-KevenDuverglas/issues
 
-Example entries:
-
-- **Student Name One / Machine Learning Bias Detection**: Suggested examining
-  fairness metrics beyond accuracy; Jane incorporated demographic parity analysis
-  into her evaluation framework
-- **Student Name Two / Distributed Caching System**: Asked about handling
-  network partitions during demo; led to important discussion about consistency
-  models
-- **Student Name Three / Graph Algorithm Visualization**: Recommended adding
-  real-time performance comparison; Alex added this feature in Week 12
+- **Researcher Name / Project**: suppo01 / Junior Seminar Research Project
+- **Feedback Provided**: Completed a peer review of the Related Work chapter via GitHub Issues (#5). Evaluated source cohesion, authority, quality, organization, interactions/relationships, usage, and variety — rating the sources as high quality, well-organized, and cohesive, with no errors identified.
+- **Impact**: Provided structured peer validation of the related work section, helping the researcher confirm their source selection and organization were on the right track before moving forward.
+- **Reference**: https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-suppo01/issues/5
 
 ### Technical Discussions and Problem-Solving
 
@@ -91,57 +84,51 @@ discussions or helped fellow researchers troubleshoot issues:
 - **Your Contribution**: Participated in group discussion about the risks of automated code execution and hallucinated instructions in LLM-based systems. Shared design strategies such as grounding responses in official documentation, clearly stating mode and operator prerequisites, and requiring explicit user confirmation before executing any generated code.
 - **Outcome**: Helped reinforce a shared emphasis on transparency, user control, and documentation-grounded guidance across multiple projects, informing both interface design and ethical framing within the research group.
 
-Example entries:
-
-- **Docker Containerization Issues**: Shared my Dockerfile configuration and
-  helped three researchers set up their development environments
-- **Statistical Testing Discussion**: Explained paired t-tests vs. Wilcoxon
-  tests; helped multiple researchers choose appropriate tests for their
-  experiments
-- **GitHub Actions Debugging**: Collaborated with two researchers to fix CI/CD
-  pipeline failures; documented solution in group Slack channel
+- **Discussion Topic / Problem**: Peer review of Related Work chapter for greer01's Senior Comprehensive Project
+- **Your Contribution**: Reviewed greer01's related work section via GitHub Issues (#16), evaluating source cohesion, authority, quality, organization, relationships, usage, and variety. Noted that sources were high quality and well-organized with an appropriate number included, but flagged that source interactions could be strengthened with more explicit connections between works. Provided tiered feedback recommending more decisive wording, more direct references to cited works, and additional appropriate sources where needed.
+- **Outcome**: Delivered structured, actionable feedback that gave the researcher a clear path for improving the depth and precision of their related work chapter across minor, moderate, and major revision levels.
 
 ### Research Group Meeting Participation
 
 Note particularly meaningful contributions during research group meetings:
 
 - **Meeting Date / Topic**: February 2026 — Project scope and research motivation discussion
-- **Contribution**:  Shared insights from personal experience learning Blender, emphasizing how beginners struggle less with conceptual understanding and more with micro-execution issues such as mode confusion, operator discovery, and modifier order. Asked questions about how other projects were defining and measuring usability in technically complex tools.
-- **Value to Group**: Helped ground the discussion in concrete user experience challenges and encouraged peers to clarify scope, audience, and evaluation criteria for their own research projects, strengthening the overall rigor of the group’s proposals.
+- **Contribution**: Shared insights from personal experience learning Blender, emphasizing how beginners struggle less with conceptual understanding and more with micro-execution issues such as mode confusion, operator discovery, and modifier order. Asked questions about how other projects were defining and measuring usability in technically complex tools.
+- **Value to Group**: Helped ground the discussion in concrete user experience challenges and encouraged peers to clarify scope, audience, and evaluation criteria for their own research projects, strengthening the overall rigor of the group's proposals.
+
+...
 
 
-Example entries:
-
-- **Week 4 / Research Ethics Discussion**: Raised important questions about
-  data privacy in web scraping projects; led to productive discussion about
-  `robots.txt` and ethical boundaries
-- **Week 9 / Writing Workshop**: Shared effective strategies for writing
-  related work sections; multiple researchers found it helpful because it
-  clarified the way they should structure the second chapter of their report
-- **Week 11 / Results Visualization**: Demonstrated `matplotlib` customization
-  techniques; several researchers adopted similar approaches
+- **Meeting Date / Topic**: March 2026 — Peer Review of Related Work Chapters
+- **Contribution**: Reviewed and submitted feedback on the Related Work chapters
+  for two fellow researchers via GitHub Issues. For Logan's project (greer01, #16),
+  noted high-quality, well-organized sources but recommended more decisive wording,
+  more direct references to cited works, and additional sources where needed. For
+  Molly's project (suppo01, #5), confirmed strong source cohesion, authority, and
+  variety with no errors identified.
+- **Value to Group**: Demonstrated consistent peer engagement across both junior
+  and senior projects, helping researchers identify gaps in their related work
+  before finalizing chapters and reinforcing a culture of structured, constructive
+  peer review within the group.
 
 ### Research Resources Shared
 
 Document any research papers, tools, tutorials, or other resources you shared
 with the research group that helped advance collective knowledge:
 
-- **Resource**: [Paper title, tool name, tutorial link, etc.]
-- **Shared With**: [Individual researcher or entire group]
-- **Purpose**: [Why you shared it and how it was relevant]
+- **Resource**: [Color Perception and Harmony in Human-Computer Interaction](https://pmc.ncbi.nlm.nih.gov/articles/PMC9518642/)
+- **Shared With**: Entire research group
+- **Purpose**: Shared during a group discussion on AI-assisted design tools to provide scientific grounding for how humans perceive and respond to color combinations, relevant to multiple projects involving visual interfaces and color-based recommendations.
 
-Example entries:
-
-- **"Testing in Production" Paper**: Shared with entire group during Week 7;
-  relevant for multiple systems research projects
-- **Plotly Visualization Tutorial**: Shared with four researchers working on
-  data-heavy projects; enabled interactive visualizations
-- **arXiv Paper on Neural Architecture Search**: Shared with Sarah Lee for her
-  AutoML project; became a key reference in her related work chapter
+- **Resource**: [Theory of Colour Harmony and Its Application](https://www.researchgate.net/publication/327385825_Theory_of_Colour_Harmony_and_Its_Application)
+- **Shared With**: Entire research group
+- **Purpose**: Shared to establish a theoretical foundation for color harmony principles, supporting discussions around automated color matching and helping peers working on visually-driven tools understand the academic basis for aesthetic decision-making in their systems.
 
 ## Additional Project Information
 
-Please use this section to record any other relevant information about your
-Junior Seminar research project, your research process, or any other
-information that your research adviser or the research group coordinator deems
-important for you to document.
+HueCloset evolved from a broad wardrobe management concept into a focused
+AI-powered color-matching tool. Key challenges included evaluating the reliability
+of AI-generated outfit suggestions and grounding recommendations in established
+color theory rather than model inference alone. The project also raised questions
+about user trust in AI-driven aesthetic tools, which shaped both the interface
+design and overall research direction.
